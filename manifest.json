@@ -1,11 +1,12 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "bridian",
+	"name": "Bridian Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "this plugin is a test plugin for bridian so the user can export notes.",
+	"author": "Andri Heeb",
+	"authorUrl": "andri-heeb.com",
+	"fundingUrl": "andri-heeb.com",
+	"isDesktopOnly": false,
+	"main": "main.js"
 }
